@@ -60,6 +60,18 @@
 
 ### 🐍 Contribution Snake  
 <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote"/>
+</p>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=NishitSatapara&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+
+</div>
+
 
 ## 🌐 Connect with Me  
 
